@@ -2,7 +2,7 @@
 
 ## Contexto histórico
 
-Aplicación de mensajería instantánea desarrollada, como parte de Pdeinfo.com, portal web de Piura, Perú, entre 1999-2000, orientado a servicios comunitarios para la región norte del país. El portal incluía sistema de anuncios clasificados, base de datos de currículos, listas de interés, postales digitales e InfoChat.
+Aplicación de mensajería instantánea desarrollada, como parte de [Pdeinfo.com](https://pdeinfo.com), portal web de Piura, Perú, entre 1999-2000, orientado a servicios comunitarios para la región norte del país. El portal incluía sistema de anuncios clasificados, base de datos de currículos, listas de interés, postales digitales e InfoChat.
 
 El desarrollo se realizó en contexto de recursos limitados: ciudad pequeña de provincia, sin comunidad técnica local establecida, sin capital de riesgo, conectividad precaria típica de Latinoamérica en esa época. El proyecto alcanzó tracción suficiente para generar oferta de adquisición por parte de operadores de Internet.
 
